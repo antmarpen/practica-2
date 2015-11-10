@@ -3,3 +3,4 @@ for j in range(10):
 	i = i - 1 
 print i
 print "fin"
+print "no hay conflicto"
